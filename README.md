@@ -74,4 +74,8 @@
 
 ## :sos: Helpers
 
-[products.json](src/helpers/products.json): Arquivo que irá conter produtos para listagem.
+- [products.json](src/helpers/products.json): Arquivo que irá conter produtos para listagem.
+- [Logo](src/static/images/store/logo.jpg): Logo
+- [Banner 01](src/static/images/store/banner1.jpg): Banner 01
+- [Banner 02](src/static/images/store/banner2.jpg): Banner 02
+- [Banner 03](src/static/images/store/banner3.jpg): Banner 03
