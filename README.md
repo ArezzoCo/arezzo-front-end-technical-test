@@ -36,6 +36,13 @@
 - Pode utilizar ferramentas de compilação **`(Será considerado um diferencial)`**
 - Pode utilizar Gulp || Webpack **`(Será considerado um diferencial)`**
 
+### :no_entry_sign: O que não se deve utilizar
+
+**O candidato:**
+
+- Não deve utilizar jQuery
+- Não deve utilizar frameworks UI (Bootstrap, Foundation, etc)
+
 ## :art: Aplicação
 
 **O candidato:**
