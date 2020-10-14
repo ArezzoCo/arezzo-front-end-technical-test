@@ -29,12 +29,11 @@
 
 - Pode utilizar HTML
 - Pode utilizar CSS
+- Pode utilizar SASS
 - Pode utilizar JavaScript
 - Pode utilizar Vanilla **`(Será considerado um diferencial)`**
-- Pode utilizar ReactJS **`(Será considerado um diferencial)`**
-- Pode utilizar SASS **`(Será considerado um diferencial)`**
+- Pode utilizar ReactJS
 - Pode utilizar ferramentas de compilação **`(Será considerado um diferencial)`**
-- Pode utilizar Gulp || Webpack **`(Será considerado um diferencial)`**
 
 ### :no_entry_sign: O que não se deve utilizar
 
